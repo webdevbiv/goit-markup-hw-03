@@ -82,7 +82,7 @@ body {
   background-color: var(--bg-light-cl);
 }
 
-.ind-h1 {
+.ind-title {
   font-weight: 900;
   font-size: 44px;
   line-height: 1.36;
@@ -107,27 +107,27 @@ body {
   cursor: pointer;
 }
 
-.ind-list1-h3 {
+.ind-list1-title {
   font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
   text-transform: uppercase;
 }
 
-.ind-list1-p {
+.ind-list1-text {
   font-size: 14px;
   line-height: 1.71;
   color: var(--text-alt-cl);
 }
 
-.ind-h2 {
+.ind-headline {
   font-size: 36px;
   line-height: 1.17;
   text-align: center;
   font-weight: 700;
 }
 
-.ind-list2-h3 {
+.ind-list2-title {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
@@ -135,7 +135,7 @@ body {
   letter-spacing: 0.03em;
 }
 
-.ind-list2-p {
+.ind-list2-text {
   line-height: 1.19;
   font-size: 16px;
   text-align: center;
@@ -168,14 +168,14 @@ body {
   color: var(--text-links-cl);
 }
 
-.por-list1-h2 {
+.por-list1-title {
   font-weight: 700;
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
 }
 
-.por-list1-p {
+.por-list1-text {
   font-size: 16px;
   line-height: 1.88;
   letter-spacing: 0.03em;
