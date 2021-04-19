@@ -214,7 +214,6 @@ img {
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--text-alt-cl);
-  margin-bottom: 30px;
 }
 
 .visually-hidden {
@@ -390,11 +389,16 @@ img {
   overflow: hidden;
 }
 
-.team-list .item .item-img {
-  margin-bottom: 30px;
+.team .content {
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
-.footer-info {
+/* .team-list .item .item-img {
+  margin-bottom: 30px;
+} */
+
+.team .content .footer-info {
   padding-top: var(--padding-footer);
   padding-bottom: var(--padding-footer);
 }
