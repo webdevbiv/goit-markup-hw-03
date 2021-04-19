@@ -398,7 +398,7 @@ img {
   margin-bottom: 30px;
 } */
 
-.team .content .footer-info {
+.footer-info {
   padding-top: var(--padding-footer);
   padding-bottom: var(--padding-footer);
 }
